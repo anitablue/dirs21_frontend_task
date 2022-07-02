@@ -41,6 +41,7 @@
                 </ul>
             </div>
         </div>
+        <hr/>
     </div>
 </div>
 </template>
